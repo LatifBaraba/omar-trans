@@ -4,10 +4,10 @@ export const site = {
   subtitle: "Tour & Travel",
   tagline: "Discover Beyond the Road",
   // TODO: replace with the real WhatsApp number (country code, digits only)
-  whatsapp: "6281234567890",
-  phoneDisplay: "+62 812-3456-7890",
-  email: "hello@omartrans.com",
-  address: "Your city, Country",
+  whatsapp: "6283169441385",
+  phoneDisplay: "+62 831-6944-1385",
+  email: "omarTransAndTravel@gmail.com",
+  address: "Jakarta, Indonesia",
 };
 
 export const services = [
